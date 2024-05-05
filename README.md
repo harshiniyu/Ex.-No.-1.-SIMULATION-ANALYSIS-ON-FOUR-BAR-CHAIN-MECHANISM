@@ -53,6 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/harshiniyu/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979786/cd350904-2d9d-4738-92e1-61a29d41ef66)
+
+
+![image](https://github.com/harshiniyu/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979786/a8f2bb15-087d-454c-a8b8-151bda9b1eca)
+
 ![image](https://github.com/harshiniyu/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/144979786/d092812a-87f5-43de-a302-87ebcde67fb1)
 
 
